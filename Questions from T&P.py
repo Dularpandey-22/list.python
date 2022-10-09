@@ -8,6 +8,3 @@ while i<len(a):
         i=i+1
 c='.'.join(string)
 print(c)
-
-
-

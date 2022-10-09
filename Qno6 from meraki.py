@@ -10,13 +10,6 @@ while index<list_length:
 
 
 # for loop 
-# students=["muskan","aariya","rukshar","manshi","archana","juli"]
-# for index in range(len(students)):
-#     print(students[index])
-    
-    
-    
-    
-
-
-
+students=["muskan","aariya","rukshar","manshi","archana","juli"]
+for index in range(len(students)):
+    print(students[index])

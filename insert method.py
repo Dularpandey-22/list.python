@@ -1,13 +1,11 @@
-l=[11,22,33,44]
-print(l)
-l.insert(2,55)
-print(l)
-l.insert(-10,20)
-print(l)
-l.insert(15,40)
-print(l)
-
-
+# l=[11,22,33,44]
+# print(l)
+# l.insert(2,55)
+# print(l)
+# l.insert(-10,20)
+# print(l)
+# l.insert(15,40)
+# print(l)
 
 
 

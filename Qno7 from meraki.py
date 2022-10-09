@@ -1,13 +1,13 @@
 # for loop 
-# a=[]
-# n=int(input("entre the number"))
-# for i in range(n):
-#     b=input("enter the value")
-#     a.append(b)
-# print(a)
-# c=input("enter the number")
-# d=a.count(c)
-# print(d)
+a=[]
+n=int(input("entre the number"))
+for i in range(n):
+    b=input("enter the value")
+    a.append(b)
+print(a)
+c=input("enter the number")
+d=a.count(c)
+print(d)
 
 
 
